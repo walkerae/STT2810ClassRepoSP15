@@ -1,6 +1,6 @@
 ---
-title: "LitReview"
-author: "Ayron"
+title:"LiteratureReview/CitationAssignment"
+author:
 date: "Tuesday, January 27, 2015"
 output: html_document
 ---
